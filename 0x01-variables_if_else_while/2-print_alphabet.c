@@ -1,17 +1,18 @@
 #include <stdio.h>
-
 /**
- * main - prints alpha in lower case
+ * main - Entry point
+ * Description: 'print alphabets lowercase'
  * Return: Always 0
  */
-Int main(void)
+int main(void)
 {
-	char lc;
+	int n = 97;
 
-	for (lc = 'a'; lc < m 'z'; lc++);
+	while (n <= 122)
 	{
-		putchar(lc);
+		putchar(n);
+		n++;
 	}
-	putchar ('n\n');
+	putchar('\n');
 	return (0);
 }
