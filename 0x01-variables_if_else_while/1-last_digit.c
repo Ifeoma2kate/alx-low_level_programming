@@ -6,7 +6,7 @@
 /* betty style doc for function main goes there */
 /**
  * main - Entry point
- *
+ * Description: 'get the last digit of a number'
  * Return: Always 0 (Success)
  */
 int main(void)
