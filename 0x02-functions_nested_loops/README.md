@@ -1,1 +1,1 @@
-0x02 functions nested loops
+C-functions nested loop
