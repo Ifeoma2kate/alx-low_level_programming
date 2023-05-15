@@ -38,6 +38,9 @@ char *str_concat(char *s1, char *s2)
 	while (k < l)
 	{
 		if (k <= i)
+			s[k] = s1[k];
+
+		if (k >= i)
 		{
 			s[k] = s2[j];
 			j++;
